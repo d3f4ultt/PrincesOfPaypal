@@ -132,6 +132,13 @@ Eventually by our 4th list of scraped creds we started seeing accounts with **MA
 Total: 105791 USD /O_O\
 ```
 
+Another thing is once an attacker knows you have large amount of cash just sitting in an account, you instantly become a target. Take this company for instance. Even if their account doesnt have MASSPAY enabled, they are still a huge target for blackhats. A person could easily lookup people working there and attempt social engineering to get access to the Paypal account, where they could turn MASSPAY on themselves to steal the 90k.
+
+<p align="center">
+<img src="http://i.imgur.com/rHVHuIl.png"/>
+</p>
+
+
 From these scans we then we compiled new creds.csv lists from all the active accounts found. Then we started checking these accounts to see if MASSPAY was enabled one by one. This is what a failed API MASSPAY call looks like:
 <p align="center">
 <img src="http://i.imgur.com/p1QGteU.png"/>
