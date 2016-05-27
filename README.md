@@ -151,7 +151,7 @@ Once again we got tired of checking accounts one by one and wrote a new bash scr
 </p>
 
 
-Basically we could have drained over a $1/4million from the +/-1125 exposed business accounts with MASSPAY enabled we found on Github. However one of us is a whitehat and the others have enough attention from law enforcement so we decided to disclose this publically instead of using or selling... FYI Paypal can EASILY be charged back once the person notices.
+Basically we could have drained over a $1/4million from the +/-1125 exposed business accounts with MASSPAY enabled we found on Github. Even if we didnt want it we could have donated it ALL to various charities and human rights organizations. However one of us is a whitehat and the others have enough attention from law enforcement right now so we decided to disclose this publically instead of using or selling... also Paypal can EASILY be charged back once the person notices. We believe in karma...
 
 <p align="center">
 <img src="http://media.giphy.com/media/HgRCL6irM8unm/giphy.gif"/>
