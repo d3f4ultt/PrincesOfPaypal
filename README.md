@@ -18,7 +18,7 @@ This is for Educational purposes ONLY. First of all, this paper aims to alarm pe
 "The fact is, I'm clearly a white hat but to make computer security move, I feel compelled to publicly disclose this.
 Also, I would like to call software developers : "Guys ! Github is not your fucking dirty room" don't push sensitive data -- or bad code. This writeup is not about technical but education, about fixing mentality on how security concern is perceived."
   
-"The only other ppl i know of to find this and use for personal gain was SEA, but they never revealed their technique. Obvious my crew could take the almost $1/4mil for ourselves but Paypal transactions can be tracked and reversed easily. However if routed through enough accs quick enough you could cashout most of it. Personally i love the chaos, its like Google's Project Zero droping 0day CVE's when vendors are dragging feet on viable patches. Security becomes stagnent when the bold do not act."
+"The only other ppl i know of to find this and use for personal gain was SEA, but they never revealed their technique. Obvious my crew could take the almost $1/4mil for ourselves but Paypal transactions can be tracked and reversed easily. However if routed through enough accs quick enough you could cashout most of it. Personally i love the chaos, its like Google's Project Zero droping 0day CVE's when vendors are dragging feet on viable patches. Security becomes stagnant when the bold do not act."
 
 Whitehat Conclusion: **please DO NOT ROB innocent ppl** (imagine It could be your *grandma*).  
 
